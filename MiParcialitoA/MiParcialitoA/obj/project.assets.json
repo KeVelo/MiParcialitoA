@@ -4105,23 +4105,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UFG\\.nuget\\packages\\": {},
+    "C:\\Users\\kevke\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UFG\\source\\repos\\MiParcialitoA\\MiParcialitoA\\MiParcialitoA.csproj",
+      "projectUniqueName": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\MiParcialitoA.csproj",
       "projectName": "MiParcialitoA",
-      "projectPath": "C:\\Users\\UFG\\source\\repos\\MiParcialitoA\\MiParcialitoA\\MiParcialitoA.csproj",
-      "packagesPath": "C:\\Users\\UFG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UFG\\source\\repos\\MiParcialitoA\\MiParcialitoA\\obj\\",
+      "projectPath": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\MiParcialitoA.csproj",
+      "packagesPath": "C:\\Users\\kevke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\UFG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4130,6 +4130,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4142,6 +4143,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4178,7 +4184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

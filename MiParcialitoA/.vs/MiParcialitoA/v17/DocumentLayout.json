@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|c:\\users\\kevke\\source\\repos\\miparcialitoa\\miparcialitoa\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|solutionrelative:miparcialitoa\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|c:\\users\\kevke\\source\\repos\\miparcialitoa\\miparcialitoa\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|solutionrelative:miparcialitoa\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|c:\\users\\kevke\\source\\repos\\miparcialitoa\\miparcialitoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|solutionrelative:miparcialitoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|c:\\users\\kevke\\source\\repos\\miparcialitoa\\miparcialitoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB35C59F-93CC-4CC1-AF1C-311F6F326F7E}|MiParcialitoA\\MiParcialitoA.csproj|solutionrelative:miparcialitoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "MiParcialitoA\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Models\\Departamento.cs",
+              "RelativeToolTip": "MiParcialitoA\\Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:07:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiParcialitoA\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiParcialitoA\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:58:56.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\appsettings.json",
+              "RelativeDocumentMoniker": "MiParcialitoA\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\appsettings.json",
+              "RelativeToolTip": "MiParcialitoA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T17:56:03.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Program.cs",
+              "RelativeDocumentMoniker": "MiParcialitoA\\Program.cs",
+              "ToolTip": "C:\\Users\\kevke\\source\\repos\\MiParcialitoA\\MiParcialitoA\\Program.cs",
+              "RelativeToolTip": "MiParcialitoA\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:55:39.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
